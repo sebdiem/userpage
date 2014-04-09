@@ -16,6 +16,10 @@ FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
+OUTPUT_PATH = 'Users/Diem/GitHub/sebdiem.github.io/'
+# To keep version control data
+OUTPUT_RETENTION = ('.git')
+
 # Blogroll
 LINKS =  (('Pelican', 'http://getpelican.com/'),
           ('Python.org', 'http://python.org/'),
@@ -25,7 +29,7 @@ LINKS =  (('Pelican', 'http://getpelican.com/'),
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
-FACEBOOK_LIKE = True
+#FACEBOOK_LIKE = True
 TWITTER_USER = 'DiemerSebastien'
 TWITTER_TWEET_BUTTON = True
 
