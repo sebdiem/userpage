@@ -29,6 +29,6 @@ Dans un second temps, il faudrait que j'allège le css du site... Il est entièr
 
 Enfin, j'ai ajouté un petit script qui réalise la traduction automatique du thème anglais dans la langue de son choix. Il suffit simplement de remplir un fichier `.txt` contenant les chaînes de caractères à traduire et le script effectue les remplacements dans les templates.
 
-Les sources du thème sont disponibles ici: [www.github.com](https://github.com/sebdiem/pelican-octopress-theme).
+Les sources du thème sont disponibles [ici](https://github.com/sebdiem/pelican-octopress-theme).
 
 
