@@ -39,6 +39,7 @@ DISPLAY_PAGES_ON_MENU = False
 SEARCH_BOX = True
 
 THEME = '../my-theme'
+PLUGIN_PATH = '/Users/Diem/.pelican-plugins/'
 PLUGINS = ['liquid_tags.include_code',
            'liquid_tags.notebook']
 EXTRA_HEADER = open('_nb_header.html').read().decode('utf-8')
